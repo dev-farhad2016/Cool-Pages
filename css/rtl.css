@@ -1,0 +1,515 @@
+
+
+.rtl {
+  direction: rtl; 
+}
+
+.ltr {
+  direction: ltr; 
+}
+
+.demo-rtl{
+  position: fixed;
+  top: 400px;
+  left: 0;
+  z-index: 9999;
+}
+
+button.rtl{
+  background: #222;
+  display: block;
+  text-indent: inherit;
+  font-size: 12px;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  font-weight: 700;
+  margin: 0px;
+  color: #fff !important;
+}
+
+.demo-ltr{
+  position: fixed;
+  top: 400px;
+  left: auto;
+  right: 0;
+  z-index: 9999;
+}
+
+button.ltr {
+  background: #222;
+  display: block;
+  text-indent: inherit;
+  font-size: 12px;
+  font-weight: 700;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  margin: 0px;
+  color: #fff !important;
+}
+
+.boxed_wrapper.ltr .demo-rtl{
+  display: block;
+}
+
+.boxed_wrapper.ltr .demo-ltr{
+  display: none;
+}
+
+.boxed_wrapper.rtl .demo-rtl{
+  display: none;
+}
+
+.boxed_wrapper.rtl .demo-ltr{
+  display: block;
+}
+
+
+
+
+/*** 
+=============================================
+    Section Direction LTR Css
+=============================================
+***/
+.rtl .main-slider {
+    direction: ltr;
+}
+
+.rtl .create-boats-content .inner-content .text-box {
+    padding-left: 0px;
+    padding-right: 40px;
+}
+.rtl .siingle-yachts-box .img-holder .rate-box {
+    left: 40px;
+    right: auto;
+}
+.rtl .siingle-yachts-box .title-holder .meta-box ul li {
+    float: right;
+    margin-right: 0px;
+    margin-left: 20px;
+}
+.rtl .siingle-yachts-box .title-holder .meta-box ul li:last-child{
+    margin-left: 0;
+}
+.rtl .siingle-yachts-box .title-holder .meta-box ul li span:before {
+    padding-right: 0px;
+    padding-left: 10px;
+}
+.rtl .accordion-box .accordion .accord-content {
+    padding-left: 25px;
+    padding-right: 70px;
+}
+.rtl .sailing-experience-content-box .img-box ul li {
+    float: right;
+}
+.rtl .single-destination-box-style2 .img-holder .inner .title {
+    text-align: right;
+}
+.rtl .single-blog-post.style2 .text-holder {
+    padding: 33px 40px 35px;
+    padding-left: 20px;
+}
+.rtl .single-blog-post .meta-info li {
+    float: right;
+    margin-right: 0px;
+    margin-left: 20px;
+}
+.rtl .single-blog-post .meta-info li:last-child{
+    margin-left: 0;
+}
+.rtl .single-blog-post .meta-info li a span:before {
+    padding-right: 0px;
+    padding-left: 5px;
+}
+.rtl .social-links-style1 li {
+    float: right;
+    margin-right: 0;
+    margin-left: 10px;
+}
+.rtl .social-links-style1 li:last-child{
+    margin-left: 0;
+}
+
+
+
+
+
+
+
+
+
+/*** 
+=============================================
+    RTL Common Css
+=============================================
+***/
+.rtl .main-menu .navigation>li {
+    float: right;
+}
+.rtl .main-menu .navigation>li:first-child{
+    margin-right: 0;
+}
+.rtl .main-menu .navigation>li:last-child{
+    margin-right: 40px;    
+}
+.rtl .main-menu .navigation> li> ul {
+    left: auto;
+    right: 0;
+}
+.rtl .main-menu .navigation> li> ul> li> a {
+    text-align: right;
+}
+.rtl .main-menu .navigation> li> ul> li> a:before {
+    display: none;
+}
+.rtl .main-menu .navigation> li> ul> li.dropdown> a:after {
+    display: none;
+}
+.rtl .main-menu .navigation> li> ul> li> ul {
+    left: auto;
+    right: 100%;
+}
+.rtl .main-menu .navigation> li> ul> li> ul> li> a {
+    text-align: right;
+}
+
+
+
+.rtl .sticky-header .main-menu .navigation> li {
+    margin-right: 20px;
+}
+.rtl .sticky-header .main-menu .navigation> li:first-child {
+    margin-right: 0px;
+}
+.rtl .scroll-top {
+  right: inherit;
+  left: 20px;
+}
+.rtl .main-menu .navigation>li>ul>li>ul>li a:before {
+    display: none;
+}
+
+.rtl .header-upper-middle{
+  float: right !important;
+}
+
+.rtl .header-upper-left{
+  float: right !important;
+  text-align: right;
+  border-right: none;
+  border-left: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.rtl .header-upper-right{
+  float: left !important;
+  padding-left: 0px;
+  padding-right: 60px;
+  border-left: none;
+  border-right: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.rtl .menu-right-content{
+  float: left;
+}
+
+.rtl .main-menu{
+  float: right;
+}
+
+.rtl .header-upper-middle{
+  padding-left: 0px;
+  padding-right: 80px;
+}
+
+.rtl .header-upper-right .call-us-now{
+  text-align: right;
+}
+
+.rtl .menu-right-content{
+  padding-right: 0px;
+  padding-left: 80px;
+}
+
+.rtl .header-lawer-left{
+  float: right !important;
+}
+
+.rtl .header-lawer-right{
+  float: left !important;
+}
+
+.rtl .language-switcher{
+  right: inherit;
+  left: 150px;
+}
+
+.rtl .header-lawer-left ul li span:before{
+  padding-right: 0px;
+  padding-left: 10px;
+}
+
+.rtl .sticky-header .logo{
+  float: right !important;
+}
+
+.rtl .sticky-header .right-col{
+  float: left !important;
+}
+
+.rtl .about-style1-left-content{
+  text-align: right;
+}
+
+.rtl .about-style1-left-content .image-box li{
+  float: right;
+  margin-right: 0px;
+  margin-left: 10px;
+}
+
+.rtl .siingle-yachts-box .title-holder{
+  text-align: right;
+}
+
+.rtl .testimonial-carousel{
+  direction: ltr;
+}
+
+.rtl .testimonial-area .sec-title{
+  text-align: right;
+}
+
+.rtl .owl-nav-style-one.owl-theme .owl-nav{
+  right: inherit;
+  left: 0;
+}
+
+.rtl .testimonial-area .row{
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: reverse;
+  -ms-flex-direction: row-reverse;
+  flex-direction: row-reverse;
+}
+
+.rtl .discover-area .icon-holder{
+  right: inherit;
+  left: 145px;
+}
+
+.rtl .single-testimonial-style1 .text-box{
+  text-align: right;
+}
+
+.rtl .boat-image-box:before{
+  left: auto;
+  right: 250px;
+}
+
+.rtl .boat-content-box{
+  text-align: right;
+}
+
+.rtl .single-blog-post .text-holder{
+  text-align: right;
+}
+
+.rtl .footer{
+  text-align: right;
+}
+
+.rtl .header-upper-right-style2 .call-us-now{
+  float: left;
+}
+
+.rtl .header-lawer-right-style2{
+  float: left !important;
+}
+
+.rtl .header-lawer-left-style2{
+  float: right !important;
+}
+
+.rtl .boats-skipper-form-area .boats-skipper-form .input-box{
+  float: right;
+  margin-right: 0px;
+  margin-left: 10px;
+}
+
+.rtl .boats-skipper-form .dropdown-item{
+  text-align: right;
+}
+
+.rtl .boats-skipper-form-area .boats-skipper-form .need-skipper{
+  text-align: right;
+}
+
+.rtl .create-boats-content{
+  text-align: right;
+}
+
+.rtl .accordion-box{
+  text-align: right;
+}
+
+.rtl .sailing-experience-content-box{
+  text-align: right;
+}
+
+.rtl .destination-box-title .sec-title{
+  text-align: right;
+}
+
+.rtl .choose-img-box .image-bg{
+  right: 0px;
+  left: -584px;
+}
+
+.rtl .choose-img-box .overlay-content .inner{
+  float: left;
+  text-align: right;
+}
+
+.rtl .why-choose-content{
+  text-align: right;
+}
+
+.rtl .breadcrumb-area .breadcrumb-menu ul li:before{
+  right: inherit;
+  left: 0px;
+}
+
+.rtl .history-carousel{
+  direction: ltr;
+}
+
+.rtl .history-area .single-history-box .row{
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: reverse;
+  -ms-flex-direction: row-reverse;
+  flex-direction: row-reverse;
+}
+
+.rtl .history-carousel.owl-nav-style-one.owl-theme .owl-nav{
+  text-align: left;
+}
+
+.rtl .single-history-box .text-box{
+  text-align: right;
+}
+
+.rtl .boats-skipper-form .need-skipper{
+  text-align: right;
+}
+
+.rtl .yachts-content{
+  text-align: right;
+}
+
+.rtl .specifications-content h1{
+  text-align: right;
+}
+
+.rtl .specifications-content ul li span:before{
+  padding-right: 0px;
+  padding-left: 20px;
+}
+
+.rtl .equipment-content{
+  text-align: right;
+}
+
+.rtl .yachts-map-box h1{
+  text-align: right;
+}
+
+.rtl .sidebar-wrapper{
+  text-align: right;
+}
+
+.rtl .single-sidebar .lat-posts li .title-holder{
+  padding-left: 0px;
+  padding-right: 25px;
+}
+
+.rtl .single-sidebar .lat-posts li .img-holder{
+  left: inherit;
+  right: 0px;
+}
+
+.rtl .single-sidebar .lat-posts li{
+  padding-left: 0px;
+  padding-right: 65px;
+}
+
+.rtl .single-sidebar .popular-tag li{
+  float: right;
+  margin-right: 0px;
+  margin-left: 5px;
+}
+
+.rtl .blog-single-area .author-box .text-holder{
+  padding-left: 0px;
+  padding-right: 30px;
+  text-align: right;
+}
+
+.rtl .blog-single-area .inner-comment-box{
+  text-align: right;
+}
+
+.rtl .blog-single-area .inner-comment-box .single-comment-box{
+  padding-left: 0px;
+  padding-right: 165px;
+}
+
+.rtl .blog-single-area .inner-comment-box .single-comment-box .text-holder{
+  margin-left: 0px;
+  margin-right: 40px;
+}
+
+.rtl .blog-single-area .inner-comment-box .single-comment-box .img-holder{
+  left: inherit;
+  right: 0px;
+}
+
+.rtl .add-comment-box{
+  text-align: right;
+}
+
+.rtl .contact-information-box{
+  text-align: right;
+}
+
+.rtl .single-history-box .img-box{
+  margin-right: 0px;
+  margin-left: 30px;
+}
+
+.rtl .mobile-menu{
+  text-align: right;
+}
+
+.rtl .mobile-menu .nav-logo{
+  text-align: right;
+}
+
+.rtl .mobile-menu .navigation li > a:before{
+  left: inherit;
+  right: 0px;
+}
+
+.rtl .mobile-menu .navigation li.dropdown .dropdown-btn{
+  right: inherit;
+  left: 6px;
+}
+
+.rtl .mobile-menu .navigation li.dropdown .dropdown-btn.open{
+  transform: rotate(-90deg);
+}
+
+.rtl .boat-content-box .inner-content-box ul li{
+  float: right;
+}

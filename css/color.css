@@ -1,0 +1,183 @@
+
+/*==============================================
+            Theme Color Css
+===============================================*/
+
+/*==============================================
+                Color-1
+===============================================*/
+
+/** color **/
+
+.boats-skipper-search-box .title i:before,
+.sec-title .icon span:before,
+.main-menu .navigation> li> ul> li> a:hover,
+.main-menu .navigation> li> ul> li> ul> li> a:hover,
+.single-blog-post .text-holder .blog-title a:hover,
+.mobile-menu .navigation li.current > a,
+.mobile-menu .navigation li > a:hover,
+.mobile-menu .social-links li a:hover,
+.boats-featured-box ul li:hover h3 a,
+.single-sidebar .lat-posts li .img-holder .overlay-style-one .box .content a:hover i,
+.single-sidebar .lat-posts li .title-holder .post-title a:hover,
+.single-sidebar .categories li a:hover,
+.single-sidebar .popular-tag li a:hover,
+.contact-form .title i:before,
+.contact-information-box .contact-us li a:hover,
+.main-menu .navigation>li>ul>li>ul>li a:before,
+.main-menu .navigation> li> ul> li> a:before{
+  color: #33c7c5;
+}
+
+/** background **/
+
+.thm_bgclr3,
+.main-menu .navigation>li:hover>a,
+.main-menu .navigation>li.current>a,
+.social-links-style1 li a:hover i,
+.boats-skipper-form button:hover,
+.single-testimonial-style1 .img-box .bg-color,
+.owl-nav-style-one.owl-theme .owl-nav [class*="owl-"]:hover,
+.boats-skipper-search-box:before,
+.header-upper-left-style2 .header-social-links .social-links-style1 li:hover a i,
+.single-team-member .title .social-links .social-links-style1 li a:hover i,
+.slogan-area.style2,
+.slogan-content.style2,
+.blog-single-area .tag-box .right .social-links-style1 li a:hover i,
+.contact-form:before,
+.sidebar-search-box .search-form input[type="text"]:focus + button,
+.sidebar-search-box .search-form button:hover,
+.contact-information-box .social-links-style1 li a:hover i{
+  background-color: #33c7c5;    
+}
+
+/** border-color **/
+
+.boat-image-box:hover:after,
+.social-links-style1 li a:hover i,
+.contact-form form input[type="text"]:focus,
+.contact-form form input[type="email"]:focus,
+.contact-form form textarea:focus,
+.blog-single-area .tag-box .right .social-links-style1 li a:hover i{
+  border-color: #33c7c5;    
+}
+.contact-information-box .social-links-style1 li a:hover i {
+  border: 1px solid #33c7c5;
+}
+.sidebar-search-box .search-form input[type="text"]:focus {
+  border: 1px solid #33c7c5;
+}
+.mobile-menu .navigation li > a:before{
+  border-left: 5px solid #33c7c5;
+}
+
+
+.btn-one {
+  background: #ffe701;
+}
+.thm-bgclr1{
+  background-color: #ffe701;
+}
+
+
+/*==============================================
+                Color-2
+===============================================*/
+
+/** color **/
+
+.header-lawer-left ul li span:before,
+.single-testimonial-style1 .text-box h3,
+.boat-content-box .inner-content-box ul li span:before,
+.single-blog-post .text-holder .post-date span,
+.boats-skipper-form .need-skipper label span:before,
+.siingle-yachts-box .title-holder .meta-box ul li span:before,
+.siingle-yachts-box .title-holder .meta-box ul li:hover,
+.boats-featured-box ul li .icon span:before,
+.accordion-box .accordion .accord-btn::after,
+.why-choose-content .inner-content ul li .icon span:before,
+.single-service-style1 .text-holder a,
+.specifications-content ul li span:before,
+.sidebar-search-box .search-form button,
+.blog-single-area .inner-comment-box .single-comment-box .text-holder .reply-button a,
+.contact-information-box .contact-us li a{
+  color: #0c67c4;
+}
+
+/** background **/
+
+.main-slider .content .btn-box a,
+.thm_bgclr2,
+.single-footer-widget .subscribe-form button,
+.boats-skipper-form button,
+.create-boats-content .inner-content .text-box a.btn-one,
+.accordion-box .accordion .accord-btn.active,
+.boats-skipper-form-area.style2 .boats-skipper-form button,
+.boats-skipper-form .dropdown-item.active,
+.boats-skipper-form .dropdown-item:active,
+.boats-skipper-form .dropdown-item:hover,
+.styled-pagination li a:hover,
+.styled-pagination li a.active,
+.styled-pagination li.prev a:hover,
+.styled-pagination li.next a:hover,
+.add-comment-box #add-comment-form button,
+.contact-form form button{
+  background-color: #0c67c4;
+}
+
+/** border-color **/
+
+.styled-pagination li a:hover,
+.styled-pagination li a.active,
+.styled-pagination li.prev a:hover,
+.styled-pagination li.next a:hover{
+  border-color: #0c67c4;
+}
+
+
+.overlay-style-one.bg1{
+  background-color: rgba(11, 103, 196, 0.80);    
+}
+
+.single-destination-box-style2 .img-holder .overlay-content {
+    background-color: rgba(11, 103, 196, 0.90);
+}
+
+
+/*==============================================
+                Color-3
+===============================================*/
+
+/** color **/
+
+.thm-clr1,
+.siingle-yachts-box .title-holder h2 a:hover,
+.single-blog-post .meta-info li a:hover,
+.single-footer-widget .footer-contact-info-box a,
+.breadcrumb-area .breadcrumb-menu ul li a:hover,
+.breadcrumb-area .breadcrumb-menu ul li.active,
+.yachts-details-area .nav-link li#slider-next a:hover i{
+  color: #ffe701;
+}
+
+/** background **/
+
+.main-slider .content .btn-box a:hover,
+.scroll-top:hover,
+.benefits-content ul li:hover .icon-holder,
+.single-destination-box .img-holder:before,
+.single-footer-widget .subscribe-form input[type="email"]:focus + button, 
+.single-footer-widget .subscribe-form button:hover,
+.boats-skipper-form-area .boats-skipper-form button,
+.video-holder-box .icon .inner a span:before,
+.single-destination-box-style2 .img-holder .inner .zoom-button a span:before,
+.single-history-box .img-box .year-box h1,
+.single-testimonial-style1 .img-box .quote-icon{
+  background-color: #ffe701;
+}
+
+/** border-color **/
+
+.single-team-member .title .social-links .social-links-style1 li a:hover i{
+  border-color: #ffe701;
+}

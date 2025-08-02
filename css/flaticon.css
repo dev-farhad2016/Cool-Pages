@@ -1,0 +1,67 @@
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/flaticon.eot");
+  src: url("../fonts/flaticon.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/flaticon.woff") format("woff"),
+       url("../fonts/flaticon.ttf") format("truetype"),
+       url("../fonts/flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+	font-style: normal;
+}
+
+
+
+
+
+
+
+
+
+
+.flaticon-allah-word:before { content: "\f100"; }
+.flaticon-multiply:before { content: "\f101"; }
+.flaticon-smartphone:before { content: "\f102"; }
+.flaticon-pin:before { content: "\f103"; }
+.flaticon-mail:before { content: "\f104"; }
+.flaticon-clock:before { content: "\f105"; }
+.flaticon-arrow:before { content: "\f106"; }
+.flaticon-rudder:before { content: "\f107"; }
+.flaticon-pin-1:before { content: "\f108"; }
+.flaticon-calendar:before { content: "\f109"; }
+.flaticon-boat:before { content: "\f10a"; }
+.flaticon-beach:before { content: "\f10b"; }
+.flaticon-smile:before { content: "\f10c"; }
+.flaticon-sailor:before { content: "\f10d"; }
+.flaticon-art-and-design:before { content: "\f10e"; }
+.flaticon-boat-1:before { content: "\f10f"; }
+.flaticon-user:before { content: "\f110"; }
+.flaticon-boat-2:before { content: "\f111"; }
+.flaticon-stamp:before { content: "\f112"; }
+.flaticon-catamaran:before { content: "\f113"; }
+.flaticon-boat-3:before { content: "\f114"; }
+.flaticon-user-1:before { content: "\f115"; }
+.flaticon-chat:before { content: "\f116"; }
+.flaticon-speech-bubbles-comment-option:before { content: "\f117"; }
+.flaticon-team:before { content: "\f118"; }
+.flaticon-gps:before { content: "\f119"; }
+.flaticon-plus:before { content: "\f11a"; }
+.flaticon-minus:before { content: "\f11b"; }
+.flaticon-play-button:before { content: "\f11c"; }
+.flaticon-money:before { content: "\f11d"; }
+.flaticon-repair:before { content: "\f11e"; }
+.flaticon-shower:before { content: "\f11f"; }

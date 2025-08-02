@@ -1,0 +1,1661 @@
+
+/* Large Layout: 1200px. */
+@media only screen and (min-width: 1200px){
+
+    
+   
+    
+    
+}
+
+
+/* Medium screen  */ 
+@media only screen and (min-width: 992px) and (max-width: 1199px) { 
+  
+/*** About Style1 Area Css ***/
+.about-style1-area {
+    padding: 0px 0 200px;
+}    
+.boats-skipper-search-box {
+    padding: 60px 70px 70px;
+    margin: 58px 0 0;
+}    
+    
+/*** Fact Counter Area Css ***/    
+.fact-counter-area .icon-holder {
+    left: 30px;
+    top: -190px;
+}
+    
+/*** Yachts Area Css ***/ 
+.siingle-yachts-box .title-holder {
+    padding: 35px 20px 0;
+}    
+.siingle-yachts-box .title-holder .meta-box ul li {
+    margin-right: 15px;
+}    
+.siingle-yachts-box .title-holder .meta-box ul li span:before {
+    padding-right: 5px;
+}    
+    
+/*** Slogan Area Css ***/ 
+.slogan-content .title h1 {
+    margin: 0 0 16px;
+}    
+.slogan-content {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}    
+    
+/*** Testimonial Area Css ***/     
+.single-testimonial-style1 .text-box {
+    margin-top: 60px;
+}    
+
+/*** Benefits Area Css ***/        
+.benefits-content ul li {
+    max-width: 310px;
+}    
+    
+/*** destinations Area Css ***/      
+.destinations-area .auto-container-box {
+    padding: 0 20px;
+}    
+ 
+/*** Doat Area Css ***/        
+.boat-image-box {
+    max-width: 570px;
+    margin-left: 0px;
+    margin-top: 120px;
+}    
+    
+/*** Partner Area Css ***/ 
+.partner-area {
+    padding-top: 120px;
+    padding-bottom: 220px;
+} 
+.partner-area.pdbtm150{
+    padding-bottom: 150px;
+}    
+    
+/*** Footer Area Css ***/ 
+.footer {
+    padding-top: 150px;
+    padding-bottom: 120px;
+} 
+.footer.pdtop110 {
+    padding-top: 110px;
+}      
+.single-footer-widget .footer-contact-info-box {
+    padding: 60px 30px 60px;
+}
+
+    
+    
+
+      
+/*** Boats Skipper Form Css ***/     
+.boats-skipper-form-area .boats-skipper-form .input-box {
+    max-width: 230px;
+}    
+.boats-skipper-form-area .boats-skipper-search-box.style2{
+    margin: 0;
+}
+
+/*** Create Boats Area Css ***/ 
+.create-boats-area {
+    padding: 120px 0 220px;
+}    
+.boats-featured-box ul {
+    margin-top: 40px;
+}    
+.boats-featured-box ul li {
+    max-width: 225px;
+}    
+    
+/*** Yachts Area Style2 Css ***/     
+.yachts-area.style2{}
+.yachts-area.style2 .icon-holder {
+    position: absolute;
+    top: -150px;
+    right: 50px;
+}
+
+/*** Sailing Experience Area Css ***/     
+.sailing-experience-content-box {
+    margin-bottom: 50px;
+}    
+
+/*** Destinations Style2 Area Css ***/
+.destinations-style2-area .auto-container-box {
+    border-left: 10px solid #ffffff;
+}    
+.destinations-style2-area .max-width20 {
+    max-width: 50%;
+    width: 100%;
+    border: 10px solid #ffffff;
+    border-left: none;
+    border-bottom: none;
+}   
+.destinations-style2-area .max-width40 {
+    max-width: 50%;
+    width: 100%;
+    border-top: 10px solid #ffffff;
+    border-right: 10px solid #ffffff;
+}
+
+/*** Choose Area Css ***/ 
+.why-choose-content {
+    padding: 120px 0 58px;
+}    
+.choose-img-box {
+    width: 100%;
+    height: 700px;
+}
+.choose-img-box .image-bg {
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}    
+.choose-img-box .overlay-content .inner {
+    float: none;
+    margin-right: 0;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+    
+/*** History Area Css ***/  
+.single-history-box .img-box {
+    margin-right: 0px;
+}  
+.single-history-box .text-box {
+    padding-top: 40px;
+}    
+.history-carousel.owl-nav-style-one.owl-theme .owl-nav {
+    top: 0;
+    right: 0;
+    margin: 0;
+}    
+    
+/*** Yachts Details Area Css ***/      
+.specifications-content ul {
+    max-width: 400px;
+}    
+.specifications-image {
+    margin-top: 30px;
+}    
+.price-box {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}    
+    
+/*** Blog Single Area Css ***/        
+.blog-single-area .blog-post .single-blog-post.style2 .text-holder {
+    padding: 48px 30px 30px;
+    padding-right: 30px;
+}    
+    
+/*** Contact Form Area Css ***/       
+.contact-form-area {
+    padding: 0px 0px 150px;
+}    
+    
+    
+.rtl .why-choose-content {
+    padding-right: 0px;
+}        
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+}
+
+
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+    
+/*** About Style1 Area Css ***/
+.about-style1-area {
+    padding: 0px 0 220px;
+}    
+.boats-skipper-search-box {
+    padding: 60px 70px 70px;
+    margin: 58px 0 0;
+}    
+    
+/*** Fact Counter Area Css ***/    
+.fact-counter-area .icon-holder {
+    left: 30px;
+    top: -200px;
+}
+        
+/*** Yachts Area Css ***/ 
+.yachts-area {
+    padding: 120px 0 90px;
+}    
+.siingle-yachts-box {
+    margin-bottom: 30px;
+}
+
+/*** Slogan Area Css ***/ 
+.slogan-content .title h1 {
+    font-size: 30px;
+    line-height: 40px;
+    margin: 0 0 19px;
+}    
+.slogan-content {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}    
+    
+/*** Testimonial Area Css ***/     
+.single-testimonial-style1 .text-box {
+    margin-top: 60px;
+}    
+        
+/*** Discover Area Css ***/         
+.discover-content h1 br{
+    display: none;
+} 
+    
+/*** Benefits Area Css ***/     
+.benefits-content ul li {
+    border-right: 0px solid #ffffff;
+    padding: 0 10px;
+}
+.benefits-content ul li .icon-holder {
+    margin: 0 auto 25px;
+}    
+    
+/*** destinations Area Css ***/      
+.destinations-area .auto-container-box {
+    padding: 0 20px;
+}    
+        
+/*** Doat Area Css ***/        
+.boat-image-box {
+    max-width: 570px;
+    margin-left: 0px;
+    margin-top: 120px;
+}    
+        
+/*** Partner Area Css ***/ 
+.partner-area {
+    padding-top: 120px;
+    padding-bottom: 220px;
+} 
+.partner-area.pdbtm150{
+    padding-bottom: 150px;
+}      
+    
+/*** Footer Area Css ***/ 
+.footer {
+    padding-top: 150px;
+    padding-bottom: 120px;
+}
+.footer.pdtop110 {
+    padding-top: 110px;
+}      
+.single-footer-widget.martop50{
+    margin-top: 50px;
+}    
+.single-footer-widget.box1 {
+    max-width: 500px;
+    margin-bottom: 50px;
+}         
+.single-footer-widget .footer-contact-info-box {
+    padding: 60px 50px 60px;
+    max-width: 550px;
+    width: 100%;
+}
+
+    
+    
+
+    
+/*** Boats Skipper Form Css ***/     
+.boats-skipper-form-area .boats-skipper-form .input-box {
+    max-width: 100%;
+}      
+.boats-skipper-form-area .boats-skipper-search-box.style2{
+    margin: 0;
+}
+.boats-skipper-form .bootstrap-select>.dropdown-toggle {
+    margin-bottom: 10px;
+}   
+ 
+/*** Create Boats Area Css ***/ 
+.create-boats-area {
+    padding: 120px 0 220px;
+}    
+.boats-featured-box ul {
+    margin-top: 40px;
+}    
+.boats-featured-box ul li {
+    max-width: 340px;
+}  
+    
+/*** Yachts Area Style2 Css ***/     
+.yachts-area.style2{}
+.yachts-area.style2 .icon-holder {
+    position: absolute;
+    top: -150px;
+    right: 50px;
+}
+
+/*** Sailing Experience Area Css ***/     
+.sailing-experience-content-box {
+    margin-bottom: 50px;
+}    
+    
+/*** Destinations Style2 Area Css ***/
+.destinations-style2-area .auto-container-box {
+    border-left: 10px solid #ffffff;
+}    
+.destinations-style2-area .max-width20 {
+    max-width: 50%;
+    width: 100%;
+    border: 10px solid #ffffff;
+    border-left: none;
+    border-bottom: none;
+}   
+.destinations-style2-area .max-width40 {
+    max-width: 50%;
+    width: 100%;
+    border-top: 10px solid #ffffff;
+    border-right: 10px solid #ffffff;
+}
+
+/*** Choose Area Css ***/ 
+.why-choose-content {
+    padding: 120px 0 58px;
+}    
+.choose-img-box {
+    width: 100%;
+    height: 700px;
+}
+.choose-img-box .image-bg {
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}    
+.choose-img-box .overlay-content .inner {
+    float: none;
+    margin-right: 0;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+        
+/*** History Area Css ***/  
+.single-history-box .img-box {
+    margin-right: 0px;
+}  
+.single-history-box .text-box {
+    padding-top: 40px;
+}    
+.history-carousel.owl-nav-style-one.owl-theme .owl-nav {
+    top: 0;
+    right: 0;
+    margin: 0;
+}    
+      
+/*** Yachts Details Area Css ***/      
+.specifications-content ul {
+    max-width: 400px;
+}    
+.specifications-image {
+    margin-top: 30px;
+}    
+.price-box {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}    
+ 
+/*** Latest Blog Area Blog Page Css ***/ 
+.latest-blog-area.blog-page {
+    padding: 120px 0 150px;
+}    
+.single-blog-post .text-holder .blog-title a br{
+    display: none;
+}
+.sidebar-wrapper {
+    position: relative;
+    display: block;
+    padding-top: 80px;
+}    
+    
+/*** Blog Single Area Css ***/     
+.blog-single-area .sidebar-wrapper {
+    padding-top: 100px;
+}      
+    
+/*** Contact Form Area Css ***/       
+.contact-form-area {
+    padding: 0px 0px 150px;
+}    
+ 
+    
+    
+    
+.rtl .boats-skipper-form .need-skipper {
+    text-align: right;
+}    
+.rtl .boats-skipper-form .need-skipper label {
+    padding-left: 0px;
+    padding-right: 40px;
+}    
+.rtl .boats-skipper-form .need-skipper input[type="checkbox"] + label span {
+    left: auto;
+    right: 0;
+}
+ 
+    
+.rtl .why-choose-content {
+    padding-right: 0px;
+}    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+ 
+    
+}
+
+
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) {
+    
+.sec-title {
+    padding-bottom: 46px;
+}    
+.sec-title p br{
+    display: none;
+} 
+.sec-title .big-title {
+    padding: 19px 0 0;
+}    
+.sec-title .big-title h1 {
+    font-size: 40px;
+    line-height: 50px;
+}  
+.sec-title .big-title h1 br{
+    display: none;
+}   
+    
+/*** About Style1 Area Css ***/
+.about-style1-area {
+    padding: 0px 0 220px;
+}   
+.about-style1-left-content .text-holder h1 {
+    font-size: 40px;
+    margin: 9px 0 32px;
+}    
+.boats-skipper-search-box {
+    padding: 60px 20px 70px;
+    margin: 68px 0 0;
+} 
+    
+/*** Fact Counter Area Css ***/    
+.fact-counter-area .icon-holder {
+    left: 0px;
+    top: -200px;
+}
+       
+/*** Yachts Area Css ***/ 
+.yachts-area {
+    padding: 120px 0 90px;
+}    
+.siingle-yachts-box {
+    margin-bottom: 30px;
+}
+    
+/*** Slogan Area Css ***/ 
+.slogan-content .title h1 {
+    font-size: 30px;
+    font-weight: 700;
+    margin: 0 0 15px;
+    line-height: 38px;
+}  
+.slogan-content {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 0 10px;
+}    
+    
+/*** Testimonial Area Css ***/ 
+.testimonial-area {
+    padding: 120px 0 230px;
+} 
+.testimonial-area.pdbtm120{
+    padding: 120px 0 120px;
+}    
+.testimonial-area .sec-title {
+    padding-bottom: 126px;
+} 
+.single-testimonial-style1 .text-box {
+    margin-top: 60px;
+}    
+.testimonial-carousel.owl-nav-style-one.owl-theme .owl-nav {
+    top: -100px;
+    left: 0;
+    right: auto;
+}            
+    
+/*** Discover Area Css ***/ 
+.discover-area .icon-holder {
+    top: -200px;
+    right: 25px;
+}
+.discover-area .icon-holder img{
+    max-width: 300px;
+}  
+.discover-content h1 {
+    font-size: 40px;
+    line-height: 52px;
+    margin: 0 0 36px;
+}    
+.discover-content h1 br{
+    display: none;
+}       
+    
+/*** Benefits Area Css ***/     
+.benefits-content ul li {
+    border-right: 0px solid #ffffff;
+    padding: 0 10px;
+}    
+
+/*** destinations Area Css ***/      
+.destinations-area .auto-container-box {
+    padding: 0 20px;
+}    
+    
+/*** Doat Area Css ***/ 
+.boat-content-box {
+    margin-right: 0px;
+}    
+.boat-content-box .inner-content-box ul li {
+    float: none;
+    margin: 0 auto 20px;
+} 
+.boat-content-box .inner-content-box ul li:last-child {
+    margin: 0 auto 20px;
+}    
+.boat-image-box {
+    max-width: 570px;
+    margin-left: 0px;
+    margin-top: 120px;
+}    
+.boat-image-box:before {
+    top: -120px;
+    left: -100px;
+    bottom: -120px;
+    right: -100px;
+}        
+ 
+/*** Latest Area Css ***/     
+.latest-blog-area {
+    padding-top: 220px;
+    padding-bottom: 90px;
+}  
+.latest-blog-area .icon-holder {
+    max-width: 300px;
+    top: -100px;
+    right: 30px;
+}   
+.latest-blog-area .icon-holder img {
+    max-width: 300px;
+    height: auto;
+}
+ 
+/*** Partner Area Css ***/ 
+.partner-area {
+    padding-top: 120px;
+    padding-bottom: 220px;
+} 
+.partner-area.pdbtm150{
+    padding-bottom: 150px;
+}      
+.partner-box {
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    border-left: none;
+}    
+.single-partner-logo-box {
+    flex: 0 0 100%;
+    max-width: 100%;
+    width: 100%;
+    border: 1px solid #efebe2;
+    margin-bottom: 20px;
+}   
+.single-partner-logo-box a {
+    border: 0px solid #efebe2;
+    border-left: none;
+    padding: 13px 0;
+    display: block;
+    text-align: center;
+}    
+       
+/*** Footer Area Css ***/ 
+.footer-area .icon-holder {
+    position: absolute;
+    top: -175px;
+    left: 30px;
+}    
+.footer {
+    padding-top: 150px;
+    padding-bottom: 120px;
+}
+.footer.pdtop110 {
+    padding-top: 110px;
+}     
+.single-footer-widget.martop50{
+    margin-top: 50px;
+}    
+.single-footer-widget.box1 {
+    max-width: 500px;
+    margin-bottom: 50px;
+}         
+.single-footer-widget .footer-contact-info-box {
+    padding: 60px 30px 60px;
+    max-width: 550px;
+    width: 100%;
+}
+
+    
+  
+    
+    
+/*** Main Header Style2 Css ***/  
+.main-header-style2 .header-upper {
+    padding: 40px 0;
+}    
+.main-header-style2 .outer-box .max-width {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+    width: 100%;
+    float: none !important;
+}    
+.header-upper-left-style2 .header-social-links {
+    text-align: center;
+}    
+.header-upper-left-style2 .header-social-links .social-links-style1 li {
+    display: inline-block;
+    float: none;
+    margin-right: 0;
+    margin: 0 3px;
+}    
+.header-upper-middle-style2 .logo {
+    margin: 35px 0 35px;
+} 
+.header-upper-right-style2 .call-us-now {
+    float: none;
+    width: 200px;
+    margin: 0 auto;
+}
+
+/*** Boats Skipper Form Css ***/      
+.boats-skipper-form-area .boats-skipper-form .input-box {
+    max-width: 100%;
+    width: 100%;
+    float: none;
+    margin-right: 0px;
+}
+.boats-skipper-form-area .boats-skipper-search-box.style2{
+    margin: 0;
+}    
+.boats-skipper-form-area .boats-skipper-form button {
+    max-width: 100%;
+    width: 100%;
+    margin-top: 10px;
+}
+
+/*** Create Boats Area Css ***/ 
+.create-boats-area {
+    padding: 120px 0 220px;
+}  
+.create-boats-content .inner-content .img-box, 
+.create-boats-content .inner-content .text-box {
+    display: block;
+}
+.create-boats-content .inner-content .text-box {
+    padding-left: 0;
+    top: 0px;
+    margin-top: 30px;
+}    
+.boats-featured-box ul {
+    margin-top: 40px;
+}    
+.boats-featured-box ul li {
+    max-width: 340px;
+    float: none;
+    margin: 0 auto 10px;
+}
+    
+/*** Yachts Area Style2 Css ***/     
+.yachts-area.style2{}
+.yachts-area.style2 .icon-holder {
+    position: absolute;
+    top: -200px;
+    right: 30px;
+}
+    
+/*** Sailing Experience Area Css ***/     
+.sailing-experience-content-box {
+    margin-bottom: 50px;
+}    
+.sailing-experience-content-box .img-box ul li {
+    display: block;
+    float: none;
+    margin: 0 7.5px 15px;
+    max-width: 100%;
+}    
+    
+/*** Destinations Style2 Area Css ***/
+.destinations-style2-area .auto-container-box {
+    border-left: 10px solid #ffffff;
+}    
+.destinations-style2-area .max-width20 {
+    max-width: 100%;
+    width: 100%;
+    border: 10px solid #ffffff;
+    border-left: none;
+    border-bottom: none;
+}   
+.destinations-style2-area .max-width40 {
+    max-width: 100%;
+    width: 100%;
+    border-top: 10px solid #ffffff;
+    border-right: 10px solid #ffffff;
+    min-height: 350px;
+    padding: 0 20px;
+}
+.single-destination-box-style2 .img-holder .inner .title h1 {
+    font-size: 30px;
+    line-height: 40px;
+}
+    
+/*** Choose Area Css ***/ 
+.why-choose-content {
+    padding: 120px 0 58px;
+}    
+.choose-img-box {
+    width: 100%;
+    height: 700px;
+}
+.choose-img-box .image-bg {
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}    
+.choose-img-box .overlay-content .inner {
+    float: none;
+    margin-right: 0;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+.why-choose-content .inner-content ul {
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+}        
+.why-choose-content .inner-content ul li {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+    width: 100%;
+}    
+   
+/*** Latest Blog Area.style2 Css ***/   
+.latest-blog-area.style2 {
+    padding-top: 120px;
+    padding-bottom: 90px;
+}    
+
+/*** History Area Css ***/  
+.single-history-box .img-box {
+    margin-right: 0px;
+}  
+.single-history-box .text-box {
+    padding-top: 40px;
+}    
+.history-carousel.owl-nav-style-one.owl-theme .owl-nav {
+    top: 0;
+    right: 0;
+    margin: 0;
+}    
+ 
+/*** Yachts Details Area Css ***/      
+.specifications-content ul {
+    max-width: 400px;
+}    
+.specifications-image {
+    margin-top: 30px;
+}    
+.price-box {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}    
+.yachts-gallery-image-box .thumb-box li a .thumb-image {
+    width: 200px;
+    margin: 0 auto;
+}    
+ 
+/*** Latest Blog Area Blog Page Css ***/
+.latest-blog-area.blog-page {
+    padding: 120px 0 150px;
+} 
+.single-blog-post .text-holder .blog-title a br{
+    display: none;
+} 
+.sidebar-wrapper {
+    position: relative;
+    display: block;
+    padding-top: 80px;
+}        
+ 
+/*** Blog Single Area Css ***/     
+.blog-single-area .sidebar-wrapper {
+    padding-top: 100px;
+}  
+.blog-single-area .blog-post .single-blog-post.style2 .text-holder {
+    padding: 48px 30px 30px;
+    padding-right: 25px;
+} 
+.blog-single-area .blog-post .single-blog-post.style2 .text-holder .blog-title br{
+    display: none;
+}    
+.blog-single-area .tag-box .tag {
+    float: none !important;
+    margin: 0 0 6px;
+}  
+.blog-single-area .tag-box .tag p span {
+    float: none;
+}    
+.blog-single-area .tag-box .right {
+    float: none !important;
+    overflow: hidden;
+}  
+.blog-single-area .tag-box .right p {
+    float: none;
+    padding-right: 6px;
+}    
+.blog-single-area .tag-box .right .sociallinks-style-two {
+    margin: 0;
+    float: none !important;
+}    
+.blog-single-area .tag-box .right .sociallinks-style-two li {
+    float: none;
+    margin-right: 0;
+    margin: 0 7px;
+}    
+    
+.blog-single-area .inner-comment-box .single-comment-box {
+    padding-left: 0px;
+}    
+.blog-single-area .inner-comment-box .single-comment-box .img-holder {
+    position: relative;
+    left: 0;
+    top: 0;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 23px;
+}    
+.blog-single-area .inner-comment-box .single-comment-box .text-holder {
+    margin-left: 0;
+}
+
+    
+.blog-single-area .author-box .img-holder, .blog-single-area .author-box .text-holder {
+    display: block;
+}    
+.blog-single-area .author-box .text-holder {
+    padding-left: 0;
+    margin-top: 30px;
+} 
+.blog-single-area .author-box .inner-content {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.blog-single-area .blog-post .single-blog-post.style2 .meta-info {
+    padding: 0 30px 21px;
+    padding-right: 10px;
+}    
+.sidebar-wrapper .single-sidebar {
+    padding: 50px 30px 50px;
+    margin-bottom: 30px;
+}    
+    
+/*** Contact Form Area Css ***/       
+.contact-form-area {
+    padding: 0px 0px 150px;
+}    
+.contact-form {
+    padding: 60px 40px 70px;
+} 
+    
+    
+    
+.rtl .boats-skipper-form .need-skipper {
+    text-align: right;
+}    
+.rtl .boats-skipper-form .need-skipper label {
+    padding-left: 0px;
+    padding-right: 40px;
+}    
+.rtl .boats-skipper-form .need-skipper input[type="checkbox"] + label span {
+    left: auto;
+    right: 0;
+}    
+ 
+.rtl .why-choose-content {
+    padding-right: 0px;
+}
+
+.rtl .blog-single-area .tag-box .right{
+    float: right !important;
+}        
+    
+
+
+    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+   
+    
+}
+
+
+
+
+@media only screen and (max-width: 991px) {
+    
+.header-upper .container-box {
+    padding: 0 30px;
+} 
+.header-upper-left {
+    width: 100%;
+    border-right: none;
+    float: none !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}  
+.header-upper-left .logo {
+    padding: 40px 0 30px;
+    text-align: center;
+}   
+    
+.header-upper-middle {
+    padding-left: 0;
+    width: 100%;
+    float: none !important;
+}
+.main-menu .navigation>li {
+    margin-right: 15px;
+}    
+.menu-right-content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding-right: 0px;
+    float: none;
+    text-align: left;
+    border-top: none;
+    z-index: 999;
+}
+.menu-right-content .header-social-links {
+    padding: 20px 0 20px;
+}
+.menu-right-content .header-social-links .social-links-style1 li {
+    float: none;
+    margin-right: 0;
+    margin: 0 4px;
+}    
+     
+.header-upper-right {
+    position: absolute;
+    top: 148px;
+    left: 0;
+    right: 0;
+    width: 200px;
+    padding-left: 0;
+    border: none;
+    margin: 0;
+    display: none;
+}
+.header-upper-right .call-us-now {
+    padding: 0;
+} 
+ 
+.header-lawer{
+    display: none;
+}    
+.header-lawer .container-box {
+    padding: 0 30px;
+}    
+.header-lawer-left {
+    float: none !important;
+    margin-bottom: 8px;
+}  
+.header-lawer-left ul {
+    text-align: center;
+}    
+.header-lawer-left ul li {
+    float: none;
+    margin-right: 0;
+    margin: 0 10px 0;
+}    
+.header-lawer-left ul li:last-child {
+    margin: 0 10px 0;
+} 
+    
+.header-lawer-right {
+    position: relative;
+    display: block;
+    float: none !important;
+}    
+.header-lawer-right .language-switcher {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 100;
+}    
+
+.rtl .header-upper-left{
+    border-left: none;
+}
+
+.rtl .header-upper-middle{
+    padding-right: 0px;
+}
+        
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+.main-header .main-menu {
+    position: relative;
+    display: block;
+    width: 100%;
+    float: none;
+}   
+.main-menu .navbar-header {
+    position: relative;
+    display: block;
+    float: none;
+    text-align: right;
+    width: 100%;
+    top: 0px;
+    z-index: 12;
+}    
+.main-menu .navbar-header .navbar-toggle {
+    display: inline-block;
+    z-index: 7;
+    float: none;
+    padding: 4px 5px;
+    cursor: pointer;
+    margin: 24px 0;
+    border-radius: 0px;
+    background: #131313;
+}
+.main-menu .navbar-header .navbar-toggle .icon-bar {
+    background: #ffffff;
+    height: 2px;
+    width: 29px;
+    display: block;
+    margin: 7px 5px;
+}
+.main-menu .collapse {
+    max-height: 350px;
+    max-width: none;
+    overflow: auto;
+    float: none;
+    width: 100%;
+    padding: 0px 0px 0px;
+    border: none;
+    margin: 0px;
+    border-radius: 0px;
+    box-shadow: none;
+}
+.main-menu .navbar-collapse {
+    max-height: 350px; 
+}    
+.main-menu .navbar-collapse>.navigation {
+    float: none !important;
+    margin: 0px !important;
+    width: 100% !important;
+    background: #000000;
+    border: 0px solid #ffffff;
+    border-top: none;
+}   
+.main-menu .navbar-collapse>.navigation>li {
+    position: relative;
+    display: block;
+    width: 100%;
+    margin: 0px !important;
+    float: none !important;
+}
+.main-menu .navbar-collapse>.navigation>li,
+.main-menu .navbar-collapse>.navigation>li>ul>li,
+.main-menu .navbar-collapse>.navigation>li>ul>li>ul>li {
+    border-top: 1px solid #242a30 !important;
+    opacity: 1 !important;
+    top: 0px !important;
+    padding-top: 0;
+    padding-bottom: 0;
+    left: 0px !important;
+    visibility: visible !important;
+    border-bottom: none;
+    padding: 0 !important;
+}
+.main-menu .navbar-collapse>.navigation>li:first-child {
+    border: none;
+}    
+.main-menu .navbar-collapse>.navigation>li>a,
+.main-menu .navbar-collapse>.navigation>li>ul>li>a,
+.main-menu .navbar-collapse>.navigation>li>ul>li>ul>li>a {
+    padding: 10px 20px 8px !important;
+    line-height: 24px;
+    color: #ffffff;
+    text-align: left;
+    min-height: 0px;
+    border-bottom: 0px solid;
+}    
+.main-menu .navbar-collapse>.navigation>li:hover>a,
+.main-menu .navbar-collapse>.navigation>li>ul>li:hover>a,
+.main-menu .navbar-collapse>.navigation>li>ul>li>ul>li:hover>a,
+.main-menu .navbar-collapse>.navigation>li.current>a,
+.main-menu .navbar-collapse>.navigation>li.current-menu-item>a {
+    color: #fff !important;
+}    
+.main-menu .navbar-collapse>.navigation>li>ul,
+.main-menu .navbar-collapse>.navigation>li>ul>li>ul {
+    position: relative;
+    border: none;
+    float: none;
+    visibility: visible;
+    opacity: 1;
+    display: none;
+    margin: 0px;
+    padding: 0px;
+    left: auto !important;
+    right: auto !important;
+    top: auto !important;
+    width: 100%;
+    background: #111111;
+    -webkit-border-radius: 0px;
+    -ms-border-radius: 0px;
+    -o-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+    transition: none !important;
+    -webkit-transition: none !important;
+    -ms-transition: none !important;
+    -o-transition: none !important;
+    -moz-transition: none !important;
+    box-shadow: none !important;
+} 
+.main-menu .navbar-collapse>.navigation>li>ul:before,
+.main-menu .navbar-collapse>.navigation>li>ul>li>ul:before{   
+    display: none;
+}      
+.main-menu .navbar-collapse>.navigation li.dropdown .dropdown-btn {
+    display: block;
+}    
+    
+    
+.fixed-header .sticky-header {
+    display: none!important;
+}      
+.main-menu .navigation> li.dropdown> a:before {
+    display: none;
+}    
+.main-menu .navigation> li> ul> li> a:before {
+    display: none;
+}  
+.main-menu .navigation>li>ul>li>ul>li a:before {
+    display: none;
+} 
+ 
+    
+.main-menu.style2 .navbar-collapse>.navigation>li:hover>a, 
+.main-menu.style2 .navbar-collapse>.navigation>li.current>a {
+    color: #ffffff;
+    background: #0c67c4;
+}    
+  
+    
+
+.main-menu.style2 .navigation>li>a:after {
+    display: none;
+}    
+.main-menu.style4 .navigation>li> a:after {
+    display: none;
+}    
+    
+ 
+    
+    
+    
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 1600px) and (max-width: 1850px) { 
+   
+.header-upper-middle {
+    padding-left: 30px;
+}
+.main-menu .navigation>li {
+    margin-right: 10px;
+}    
+.menu-right-content {
+    padding-right: 30px;
+}
+.header-upper-right {
+    padding-left: 15px;
+}    
+
+.rtl .header-upper-right{
+    padding-right: 15px;
+}
+
+.rtl .header-upper-middle{
+    padding-right: 30px;
+}
+
+.rtl .menu-right-content{
+    padding-left: 30px;
+}
+    
+    
+    
+    
+}
+
+
+@media only screen and (min-width: 992px) and (max-width: 1599px) { 
+
+.header-upper .container-box {
+    padding: 0 30px;
+} 
+.header-upper-left {
+    width: 100%;
+    border-right: none;
+    float: none !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}  
+.header-upper-left .logo {
+    padding: 40px 0 30px;
+}  
+    
+.header-upper-middle {
+    padding-left: 0;
+    width: 100%;
+    float: none !important;
+}
+.main-menu .navigation>li {
+    margin-right: 15px;
+    padding: 40px 0 40px;
+}    
+.menu-right-content {
+    float: right;
+    padding-right: 0px;
+}
+.menu-right-content .header-social-links {
+    padding: 40px 0 40px;
+}
+.header-upper-right {
+    position: absolute;
+    top: 45px;
+    right: 0;
+    width: 200px;
+    padding-left: 0;
+    border: none;
+}
+.header-upper-right .call-us-now {
+    padding: 0;
+} 
+ 
+.header-lawer .container-box {
+    padding: 0 30px;
+}    
+.header-lawer-left {
+    float: none !important;
+    margin-bottom: 8px;
+}  
+.header-lawer-left ul {
+    text-align: center;
+}    
+.header-lawer-left ul li {
+    float: none;
+    margin-right: 0;
+    margin: 0 10px 0;
+}    
+    
+.header-lawer-right {
+    position: relative;
+    display: block;
+    float: none !important;
+}    
+.header-lawer-right .language-switcher {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 100;
+}    
+
+.rtl .header-upper-right{
+    right: inherit;
+    left: 0px;
+    border: none;
+    padding-right: 0px;
+}
+
+.rtl .header-upper-left{
+    border: none;
+}
+
+.rtl .header-upper-middle{
+    padding-right: 0px;
+}
+
+.rtl .menu-right-content{
+    padding-left: 0px;
+}
+
+.rtl .header-lawer-left{
+    float: none !important;
+}
+    
+    
+  
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 768px){
+	.main-menu .navigation > li > ul,
+	.main-menu .navigation > li > ul > li > ul{
+		display:block !important;
+		visibility:hidden;
+		opacity:0;
+	}
+}
+
+
+@media only screen and (max-width: 1139px){
+.main-menu .navigation > li{
+    margin-right: 30px;
+}
+.main-header .nav-outer .main-menu,
+.sticky-header{
+    display: none !important;
+}
+.nav-outer .mobile-nav-toggler{
+    display: block;
+}
+.menu-right-content {
+    float: left;
+    padding-right: 0px;
+}
+.menu-right-content .header-social-links {
+    padding: 20px 0 20px;
+}
+
+.rtl .menu-right-content{
+    padding-left: 0px;
+}
+
+.rtl .single-testimonial-style1 .img-box{
+    float: right;
+}
+
+
+
+.main-header-style2 {
+    background: #022447;    
+}
+.header-lawer-style2 .outer-box {
+    min-height: 90px;
+    padding: 0 40px;
+}    
+.header-lawer-left-style2 {
+    position: relative;
+    display: block;
+    float: none !important;
+}    
+.header-lawer-right-style2 {
+    position: absolute;
+    top: 0;
+    left: 20px;
+    width: 130px;
+    float: none !important;
+    z-index: 999;
+}    
+.header-lawer-right-style2 .language-switcher {
+    top: 30px;
+    right: 0px;
+}
+    
+    
+.main-slider.style2 .slide {
+    padding: 155px 0px 155px;
+}    
+.main-slider.style2 {
+    margin-top: 215px;
+}    
+        
+
+    
+  
+}
+
+
+@media only screen and (min-width: 768px) and (max-width: 1199px) { 
+    
+.main-slider.style1 .content .big-title {
+    font-size: 50px;
+    line-height: 1.1em;
+    font-weight: 800;
+    margin: 31px 0 47px;
+}
+    
+     
+.main-slider.style2 .content .big-title{
+    font-size: 60px;
+    line-height: 1.01em;
+    font-weight: 700;
+    margin: 26px 0 22px;
+} 
+.main-slider.style2 .content .text{
+    font-size: 18px;
+    line-height: 1.6em;
+    font-weight: 500;
+    margin-bottom: 42px;
+}    
+    
+    
+    
+}
+
+@media only screen and (min-width: 500px) and (max-width: 767px) { 
+    
+.main-slider.style1 .content .big-title {
+    font-size: 40px;
+    line-height: 1.1em;
+    font-weight: 700;
+    margin: 32px 0 39px;
+}
+.main-slider .owl-theme .owl-nav .owl-prev {
+    left: 10px;
+} 
+.main-slider .owl-theme .owl-nav .owl-next {
+    right: 10px;
+} 
+    
+    
+    
+.main-slider.style2 {
+    margin-top: 385px;
+}     
+.main-slider.style2 .slide {
+    padding: 155px 0px 155px;
+}    
+.main-slider.style2 .content .big-title{
+    font-size: 40px;
+    line-height: 1.01em;
+    font-weight: 700;
+    margin: 24px 0 21px;
+} 
+.main-slider.style2 .content .text{
+    font-size: 16px;
+    line-height: 1.6em;
+    font-weight: 500;
+    margin-bottom: 43px;
+}       
+    
+        
+    
+    
+    
+    
+}
+
+
+@media only screen and (max-width: 499px) {   
+.main-slider .slide{
+	padding: 100px 0px 100px;
+}    
+.main-slider.style1 .content .big-title {
+    font-size: 30px;
+    line-height: 1.1em;
+    font-weight: 700;
+    margin: 32px 0 47px;
+}   
+.main-slider .content .btn-box a {
+    padding: 22px 50px 22px;
+}         
+.main-slider .owl-theme .owl-nav .owl-prev {
+    display: none;
+} 
+.main-slider .owl-theme .owl-nav .owl-next {
+    display: none;
+} 
+    
+       
+.main-slider.style2 {
+    margin-top: 385px;
+}     
+.main-slider.style2 .slide {
+    padding: 100px 0px 100px;
+} 
+.main-slider.style2 .content .title {
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 700;
+}    
+.main-slider.style2 .content .big-title{
+    font-size: 30px;
+    font-weight: 600;
+    margin: 25px 0 23px;
+} 
+.main-slider.style2 .content .text{
+    font-size: 16px;
+    line-height: 1.6em;
+    font-weight: 500;
+    margin-bottom: 33px;
+}       
+.main-slider.style2 .content .text br{
+    display: none;
+}       
+    
+        
+   
+    
+    
+}
+
+
+
+
